@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233232788861",
+    "project_id": "firstapp-1091c",
+    "storage_bucket": "firstapp-1091c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233232788861:android:bd120124929f5a116ff014",
+        "android_client_info": {
+          "package_name": "com.abhay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDQrlDI-p6iea5KArs-Vfb6BF4MwFnvxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233232788861:android:2b76fa779f6cb7146ff014",
+        "android_client_info": {
+          "package_name": "com.abhay.myfirstnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDQrlDI-p6iea5KArs-Vfb6BF4MwFnvxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
